@@ -5,3 +5,7 @@ The pseudocode is provided to prompt the user for the number of rooms, display t
 The code includes standard input/output statements and arithmetic operations to calculate the cost, tax, and total estimate based on the user input. The output is displayed in the console in the format of a detailed estimate with a breakdown of the cost, tax, and validity period.
 
 Overall, this exercise provides practice with input/output, arithmetic operations, and using constants in C++.
+
+
+
+The code for Frank's Carpet Cleaning Service has been modified to include an option for cleaning large rooms, in addition to small rooms. The program prompts the user to input the number of small and large rooms they would like cleaned, and then displays an estimate for the service. The prices for small and large rooms are different, and the program calculates the cost and tax separately for each room type. Finally, the total estimate is displayed, which includes the cost and tax for both small and large rooms. The estimate is valid for 30 days.
